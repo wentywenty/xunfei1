@@ -1,0 +1,11 @@
+[0m[ INFO] [1731825133.792281979]: rviz version 1.14.25[0m
+[0m[ INFO] [1731825133.792333383]: compiled against Qt version 5.12.8[0m
+[0m[ INFO] [1731825133.792340225]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1731825133.842925800]: Forcing OpenGl version 0.[0m
+[0m[ INFO] [1731825136.133791964]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1731825136.133896762]: OpenGL device: D3D12 (NVIDIA GeForce RTX 3050 Laptop GPU)[0m
+[0m[ INFO] [1731825136.133914325]: OpenGl version: 4.6 (GLSL 4.6) limited to GLSL 1.4 on Mesa system.[0m
+[0m[ INFO] [1731825162.644029279]: Setting pose: -2.378 0.237 -0.014 [frame=map][0m
+[0m[ INFO] [1731825168.156652106]: Setting goal: Frame:map, Position(1.396, -0.137, 0.000), Orientation(0.000, 0.000, -0.210, 0.978) = Angle: -0.423
+[0m
+[0m[ INFO] [1731825171.097169617]: Setting pose: -1.346 -0.488 -2.624 [frame=map][0m
